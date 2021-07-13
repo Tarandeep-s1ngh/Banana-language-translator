@@ -23,6 +23,12 @@ main {
     max-width: 600px;
 }
 
+.img {
+    position: absolute;
+    max-width: 80px;
+    margin-left: 300px;
+}
+
 textarea {
     box-sizing: border-box;
     border: 1px solid black;
